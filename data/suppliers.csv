@@ -1,0 +1,6 @@
+supplier_id,supplier_name,category_supplied,unit,lead_time_days,previous_unit_price,current_unit_price,price_change_date,payment_terms,notes
+SUP01,Golden Bean Roasters,Coffee Beans,per_kg,3,18.5,22.0,2026-08-15,Net 15,Primary coffee bean supplier
+SUP02,Alt Coffee Co,Coffee Beans,per_kg,10,17.0,17.5,2026-06-01,Net 30,Alternative coffee bean supplier
+SUP03,Fresh Dairy Farms,Dairy,per_liter,2,1.2,1.25,2026-07-01,Net 15,Local dairy supplier
+SUP04,Sweet Supplies Co,Bakery Ingredients,per_kg,4,3.8,3.9,2026-07-10,Net 30,"Flour, sugar, and baking ingredients"
+SUP05,Packaging Plus,Packaging,per_unit,5,0.08,0.08,,Net 30,"Cups, lids, napkins, takeaway boxes"

@@ -1,0 +1,31 @@
+expense_id,date,category,description,amount
+EXP001,2026-08-19,Supplies,Coffee beans - Golden Bean Roasters (22.00/kg x 25kg),550.0
+EXP002,2026-08-20,Rent,Monthly café rent,2400.0
+EXP003,2026-08-20,Utilities,Electricity and water bill,380.0
+EXP004,2026-08-20,Supplies,Dairy delivery - Fresh Dairy Farms,210.0
+EXP005,2026-08-21,Insurance,Business liability insurance,150.0
+EXP006,2026-08-21,Supplies,Bakery ingredients - Sweet Supplies Co,340.0
+EXP007,2026-08-22,Software,POS system subscription,79.0
+EXP008,2026-08-22,Software,Accounting software subscription,45.0
+EXP009,2026-08-22,Software,"Inventory management app subscription (unused, duplicate of POS features)",59.0
+EXP010,2026-08-23,Supplies,"Packaging - cups, lids, napkins - Packaging Plus",96.0
+EXP011,2026-08-24,Marketing,Local newspaper ad (low measurable response),220.0
+EXP012,2026-08-25,Wages,Staff payroll - biweekly,3100.0
+EXP013,2026-08-26,Supplies,Coffee beans - Golden Bean Roasters (22.00/kg x 25kg),550.0
+EXP014,2026-08-27,Supplies,Dairy delivery - Fresh Dairy Farms,215.0
+EXP015,2026-08-27,Cleaning,Commercial cleaning service,140.0
+EXP016,2026-08-28,Supplies,Bakery ingredients - Sweet Supplies Co,355.0
+EXP017,2026-08-29,Maintenance,Espresso machine servicing,180.0
+EXP018,2026-08-30,Marketing,Social media boosted posts,60.0
+EXP019,2026-08-31,Delivery Fees,Third-party grocery delivery surcharge (rush order due to low stock),58.0
+EXP020,2026-09-01,Software,POS system subscription,79.0
+EXP021,2026-09-01,Software,Accounting software subscription,45.0
+EXP022,2026-09-01,Software,"Inventory management app subscription (unused, duplicate of POS features)",59.0
+EXP023,2026-09-01,Office Supplies,Printer paper and receipt rolls,22.0
+EXP024,2026-09-02,Supplies,Coffee beans - Golden Bean Roasters (22.00/kg x 25kg),550.0
+EXP025,2026-09-03,Supplies,Dairy delivery - Fresh Dairy Farms,212.0
+EXP026,2026-09-04,Supplies,Bakery ingredients - Sweet Supplies Co,348.0
+EXP027,2026-09-05,Delivery Fees,Third-party grocery delivery surcharge (rush order due to low stock),65.0
+EXP028,2026-09-06,Supplies,"Packaging - cups, lids, napkins - Packaging Plus",98.0
+EXP029,2026-09-07,Cleaning,Commercial cleaning service,140.0
+EXP030,2026-09-08,Wages,Staff payroll - biweekly,3150.0ss

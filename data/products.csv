@@ -1,0 +1,16 @@
+product_id,product_name,category,unit_of_measure,unit_price,unit_cost,margin_pct,primary_supplier_id
+P01,Espresso,Hot Beverage,each,2.8,0.9,67.9,SUP01
+P02,Americano,Hot Beverage,each,3.2,0.95,70.3,SUP01
+P03,Cappuccino,Hot Beverage,each,4.2,1.45,65.5,SUP01
+P04,Latte,Hot Beverage,each,4.5,1.55,65.6,SUP01
+P05,Mocha,Hot Beverage,each,4.8,1.75,63.5,SUP01
+P06,Cold Brew,Cold Beverage,each,4.5,1.3,71.1,SUP01
+P07,Hot Chocolate,Hot Beverage,each,3.9,1.2,69.2,SUP03
+P08,Iced Tea,Cold Beverage,each,3.2,0.7,78.1,SUP04
+P09,Orange Juice,Cold Beverage,each,3.8,1.6,57.9,SUP04
+P10,Bottled Water,Cold Beverage,each,2.0,0.5,75.0,SUP05
+P11,Croissant,Bakery,each,3.5,1.1,68.6,SUP04
+P12,Blueberry Muffin,Bakery,each,3.75,1.3,65.3,SUP04
+P13,Chocolate Chip Cookie,Bakery,each,2.5,0.6,76.0,SUP04
+P14,Bagel with Cream Cheese,Bakery,each,4.0,1.5,62.5,SUP04
+P15,Avocado Toast,Food,each,7.5,3.2,57.3,SUP03

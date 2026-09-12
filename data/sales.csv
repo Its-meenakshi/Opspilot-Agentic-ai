@@ -1,0 +1,316 @@
+date,product_id,product_name,quantity_sold,unit_price,revenue
+2026-08-19,P01,Espresso,28,2.8,78.4
+2026-08-19,P02,Americano,15,3.2,48.0
+2026-08-19,P03,Cappuccino,28,4.2,117.6
+2026-08-19,P04,Latte,43,4.5,193.5
+2026-08-19,P05,Mocha,14,4.8,67.2
+2026-08-19,P06,Cold Brew,15,4.5,67.5
+2026-08-19,P07,Hot Chocolate,5,3.9,19.5
+2026-08-19,P08,Iced Tea,9,3.2,28.8
+2026-08-19,P09,Orange Juice,11,3.8,41.8
+2026-08-19,P10,Bottled Water,3,2.0,6.0
+2026-08-19,P11,Croissant,23,3.5,80.5
+2026-08-19,P12,Blueberry Muffin,17,3.75,63.75
+2026-08-19,P13,Chocolate Chip Cookie,29,2.5,72.5
+2026-08-19,P14,Bagel with Cream Cheese,12,4.0,48.0
+2026-08-19,P15,Avocado Toast,3,7.5,22.5
+2026-08-20,P01,Espresso,18,2.8,50.4
+2026-08-20,P02,Americano,15,3.2,48.0
+2026-08-20,P03,Cappuccino,31,4.2,130.2
+2026-08-20,P04,Latte,35,4.5,157.5
+2026-08-20,P05,Mocha,18,4.8,86.4
+2026-08-20,P06,Cold Brew,12,4.5,54.0
+2026-08-20,P07,Hot Chocolate,8,3.9,31.2
+2026-08-20,P08,Iced Tea,9,3.2,28.8
+2026-08-20,P09,Orange Juice,11,3.8,41.8
+2026-08-20,P10,Bottled Water,7,2.0,14.0
+2026-08-20,P11,Croissant,21,3.5,73.5
+2026-08-20,P12,Blueberry Muffin,19,3.75,71.25
+2026-08-20,P13,Chocolate Chip Cookie,27,2.5,67.5
+2026-08-20,P14,Bagel with Cream Cheese,13,4.0,52.0
+2026-08-20,P15,Avocado Toast,5,7.5,37.5
+2026-08-21,P01,Espresso,18,2.8,50.4
+2026-08-21,P02,Americano,16,3.2,51.2
+2026-08-21,P03,Cappuccino,39,4.2,163.8
+2026-08-21,P04,Latte,38,4.5,171.0
+2026-08-21,P05,Mocha,15,4.8,72.0
+2026-08-21,P06,Cold Brew,16,4.5,72.0
+2026-08-21,P07,Hot Chocolate,5,3.9,19.5
+2026-08-21,P08,Iced Tea,9,3.2,28.8
+2026-08-21,P09,Orange Juice,8,3.8,30.4
+2026-08-21,P10,Bottled Water,3,2.0,6.0
+2026-08-21,P11,Croissant,16,3.5,56.0
+2026-08-21,P12,Blueberry Muffin,22,3.75,82.5
+2026-08-21,P13,Chocolate Chip Cookie,21,2.5,52.5
+2026-08-21,P14,Bagel with Cream Cheese,11,4.0,44.0
+2026-08-21,P15,Avocado Toast,5,7.5,37.5
+2026-08-22,P01,Espresso,32,2.8,89.6
+2026-08-22,P02,Americano,18,3.2,57.6
+2026-08-22,P03,Cappuccino,42,4.2,176.4
+2026-08-22,P04,Latte,56,4.5,252.0
+2026-08-22,P05,Mocha,21,4.8,100.8
+2026-08-22,P06,Cold Brew,21,4.5,94.5
+2026-08-22,P07,Hot Chocolate,10,3.9,39.0
+2026-08-22,P08,Iced Tea,15,3.2,48.0
+2026-08-22,P09,Orange Juice,10,3.8,38.0
+2026-08-22,P10,Bottled Water,5,2.0,10.0
+2026-08-22,P11,Croissant,25,3.5,87.5
+2026-08-22,P12,Blueberry Muffin,34,3.75,127.5
+2026-08-22,P13,Chocolate Chip Cookie,26,2.5,65.0
+2026-08-22,P14,Bagel with Cream Cheese,12,4.0,48.0
+2026-08-22,P15,Avocado Toast,3,7.5,22.5
+2026-08-23,P01,Espresso,25,2.8,70.0
+2026-08-23,P02,Americano,20,3.2,64.0
+2026-08-23,P03,Cappuccino,40,4.2,168.0
+2026-08-23,P04,Latte,58,4.5,261.0
+2026-08-23,P05,Mocha,21,4.8,100.8
+2026-08-23,P06,Cold Brew,22,4.5,99.0
+2026-08-23,P07,Hot Chocolate,4,3.9,15.6
+2026-08-23,P08,Iced Tea,10,3.2,32.0
+2026-08-23,P09,Orange Juice,10,3.8,38.0
+2026-08-23,P10,Bottled Water,5,2.0,10.0
+2026-08-23,P11,Croissant,31,3.5,108.5
+2026-08-23,P12,Blueberry Muffin,25,3.75,93.75
+2026-08-23,P13,Chocolate Chip Cookie,33,2.5,82.5
+2026-08-23,P14,Bagel with Cream Cheese,17,4.0,68.0
+2026-08-23,P15,Avocado Toast,5,7.5,37.5
+2026-08-24,P01,Espresso,26,2.8,72.8
+2026-08-24,P02,Americano,22,3.2,70.4
+2026-08-24,P03,Cappuccino,32,4.2,134.4
+2026-08-24,P04,Latte,43,4.5,193.5
+2026-08-24,P05,Mocha,16,4.8,76.8
+2026-08-24,P06,Cold Brew,18,4.5,81.0
+2026-08-24,P07,Hot Chocolate,6,3.9,23.4
+2026-08-24,P08,Iced Tea,9,3.2,28.8
+2026-08-24,P09,Orange Juice,7,3.8,26.6
+2026-08-24,P10,Bottled Water,7,2.0,14.0
+2026-08-24,P11,Croissant,22,3.5,77.0
+2026-08-24,P12,Blueberry Muffin,17,3.75,63.75
+2026-08-24,P13,Chocolate Chip Cookie,20,2.5,50.0
+2026-08-24,P14,Bagel with Cream Cheese,15,4.0,60.0
+2026-08-24,P15,Avocado Toast,3,7.5,22.5
+2026-08-25,P01,Espresso,20,2.8,56.0
+2026-08-25,P02,Americano,16,3.2,51.2
+2026-08-25,P03,Cappuccino,40,4.2,168.0
+2026-08-25,P04,Latte,42,4.5,189.0
+2026-08-25,P05,Mocha,16,4.8,76.8
+2026-08-25,P06,Cold Brew,13,4.5,58.5
+2026-08-25,P07,Hot Chocolate,7,3.9,27.3
+2026-08-25,P08,Iced Tea,11,3.2,35.2
+2026-08-25,P09,Orange Juice,10,3.8,38.0
+2026-08-25,P10,Bottled Water,6,2.0,12.0
+2026-08-25,P11,Croissant,23,3.5,80.5
+2026-08-25,P12,Blueberry Muffin,20,3.75,75.0
+2026-08-25,P13,Chocolate Chip Cookie,28,2.5,70.0
+2026-08-25,P14,Bagel with Cream Cheese,15,4.0,60.0
+2026-08-25,P15,Avocado Toast,3,7.5,22.5
+2026-08-26,P01,Espresso,28,2.8,78.4
+2026-08-26,P02,Americano,15,3.2,48.0
+2026-08-26,P03,Cappuccino,38,4.2,159.6
+2026-08-26,P04,Latte,46,4.5,207.0
+2026-08-26,P05,Mocha,18,4.8,86.4
+2026-08-26,P06,Cold Brew,17,4.5,76.5
+2026-08-26,P07,Hot Chocolate,9,3.9,35.1
+2026-08-26,P08,Iced Tea,10,3.2,32.0
+2026-08-26,P09,Orange Juice,6,3.8,22.8
+2026-08-26,P10,Bottled Water,5,2.0,10.0
+2026-08-26,P11,Croissant,21,3.5,73.5
+2026-08-26,P12,Blueberry Muffin,18,3.75,67.5
+2026-08-26,P13,Chocolate Chip Cookie,27,2.5,67.5
+2026-08-26,P14,Bagel with Cream Cheese,9,4.0,36.0
+2026-08-26,P15,Avocado Toast,5,7.5,37.5
+2026-08-27,P01,Espresso,26,2.8,72.8
+2026-08-27,P02,Americano,16,3.2,51.2
+2026-08-27,P03,Cappuccino,36,4.2,151.2
+2026-08-27,P04,Latte,46,4.5,207.0
+2026-08-27,P05,Mocha,11,4.8,52.8
+2026-08-27,P06,Cold Brew,17,4.5,76.5
+2026-08-27,P07,Hot Chocolate,9,3.9,35.1
+2026-08-27,P08,Iced Tea,12,3.2,38.4
+2026-08-27,P09,Orange Juice,10,3.8,38.0
+2026-08-27,P10,Bottled Water,4,2.0,8.0
+2026-08-27,P11,Croissant,17,3.5,59.5
+2026-08-27,P12,Blueberry Muffin,21,3.75,78.75
+2026-08-27,P13,Chocolate Chip Cookie,22,2.5,55.0
+2026-08-27,P14,Bagel with Cream Cheese,13,4.0,52.0
+2026-08-27,P15,Avocado Toast,3,7.5,22.5
+2026-08-28,P01,Espresso,27,2.8,75.6
+2026-08-28,P02,Americano,19,3.2,60.8
+2026-08-28,P03,Cappuccino,35,4.2,147.0
+2026-08-28,P04,Latte,32,4.5,144.0
+2026-08-28,P05,Mocha,11,4.8,52.8
+2026-08-28,P06,Cold Brew,18,4.5,81.0
+2026-08-28,P07,Hot Chocolate,6,3.9,23.4
+2026-08-28,P08,Iced Tea,9,3.2,28.8
+2026-08-28,P09,Orange Juice,6,3.8,22.8
+2026-08-28,P10,Bottled Water,4,2.0,8.0
+2026-08-28,P11,Croissant,24,3.5,84.0
+2026-08-28,P12,Blueberry Muffin,17,3.75,63.75
+2026-08-28,P13,Chocolate Chip Cookie,21,2.5,52.5
+2026-08-28,P14,Bagel with Cream Cheese,14,4.0,56.0
+2026-08-28,P15,Avocado Toast,6,7.5,45.0
+2026-08-29,P01,Espresso,25,2.8,70.0
+2026-08-29,P02,Americano,28,3.2,89.6
+2026-08-29,P03,Cappuccino,38,4.2,159.6
+2026-08-29,P04,Latte,47,4.5,211.5
+2026-08-29,P05,Mocha,23,4.8,110.4
+2026-08-29,P06,Cold Brew,26,4.5,117.0
+2026-08-29,P07,Hot Chocolate,10,3.9,39.0
+2026-08-29,P08,Iced Tea,15,3.2,48.0
+2026-08-29,P09,Orange Juice,9,3.8,34.2
+2026-08-29,P10,Bottled Water,6,2.0,12.0
+2026-08-29,P11,Croissant,28,3.5,98.0
+2026-08-29,P12,Blueberry Muffin,22,3.75,82.5
+2026-08-29,P13,Chocolate Chip Cookie,28,2.5,70.0
+2026-08-29,P14,Bagel with Cream Cheese,15,4.0,60.0
+2026-08-29,P15,Avocado Toast,4,7.5,30.0
+2026-08-30,P01,Espresso,32,2.8,89.6
+2026-08-30,P02,Americano,19,3.2,60.8
+2026-08-30,P03,Cappuccino,38,4.2,159.6
+2026-08-30,P04,Latte,42,4.5,189.0
+2026-08-30,P05,Mocha,20,4.8,96.0
+2026-08-30,P06,Cold Brew,19,4.5,85.5
+2026-08-30,P07,Hot Chocolate,10,3.9,39.0
+2026-08-30,P08,Iced Tea,11,3.2,35.2
+2026-08-30,P09,Orange Juice,10,3.8,38.0
+2026-08-30,P10,Bottled Water,3,2.0,6.0
+2026-08-30,P11,Croissant,24,3.5,84.0
+2026-08-30,P12,Blueberry Muffin,30,3.75,112.5
+2026-08-30,P13,Chocolate Chip Cookie,25,2.5,62.5
+2026-08-30,P14,Bagel with Cream Cheese,16,4.0,64.0
+2026-08-30,P15,Avocado Toast,7,7.5,52.5
+2026-08-31,P01,Espresso,19,2.8,53.2
+2026-08-31,P02,Americano,17,3.2,54.4
+2026-08-31,P03,Cappuccino,31,4.2,130.2
+2026-08-31,P04,Latte,35,4.5,157.5
+2026-08-31,P05,Mocha,18,4.8,86.4
+2026-08-31,P06,Cold Brew,21,4.5,94.5
+2026-08-31,P07,Hot Chocolate,5,3.9,19.5
+2026-08-31,P08,Iced Tea,11,3.2,35.2
+2026-08-31,P09,Orange Juice,7,3.8,26.6
+2026-08-31,P10,Bottled Water,5,2.0,10.0
+2026-08-31,P11,Croissant,22,3.5,77.0
+2026-08-31,P12,Blueberry Muffin,19,3.75,71.25
+2026-08-31,P13,Chocolate Chip Cookie,21,2.5,52.5
+2026-08-31,P14,Bagel with Cream Cheese,12,4.0,48.0
+2026-08-31,P15,Avocado Toast,3,7.5,22.5
+2026-09-01,P01,Espresso,18,2.8,50.4
+2026-09-01,P02,Americano,22,3.2,70.4
+2026-09-01,P03,Cappuccino,28,4.2,117.6
+2026-09-01,P04,Latte,33,4.5,148.5
+2026-09-01,P05,Mocha,13,4.8,62.4
+2026-09-01,P06,Cold Brew,15,4.5,67.5
+2026-09-01,P07,Hot Chocolate,7,3.9,27.3
+2026-09-01,P08,Iced Tea,11,3.2,35.2
+2026-09-01,P09,Orange Juice,9,3.8,34.2
+2026-09-01,P10,Bottled Water,4,2.0,8.0
+2026-09-01,P11,Croissant,21,3.5,73.5
+2026-09-01,P12,Blueberry Muffin,16,3.75,60.0
+2026-09-01,P13,Chocolate Chip Cookie,22,2.5,55.0
+2026-09-01,P14,Bagel with Cream Cheese,12,4.0,48.0
+2026-09-01,P15,Avocado Toast,3,7.5,22.5
+2026-09-02,P01,Espresso,24,2.8,67.2
+2026-09-02,P02,Americano,18,3.2,57.6
+2026-09-02,P03,Cappuccino,40,4.2,168.0
+2026-09-02,P04,Latte,44,4.5,198.0
+2026-09-02,P05,Mocha,17,4.8,81.6
+2026-09-02,P06,Cold Brew,18,4.5,81.0
+2026-09-02,P07,Hot Chocolate,7,3.9,27.3
+2026-09-02,P08,Iced Tea,13,3.2,41.6
+2026-09-02,P09,Orange Juice,11,3.8,41.8
+2026-09-02,P10,Bottled Water,7,2.0,14.0
+2026-09-02,P11,Croissant,22,3.5,77.0
+2026-09-02,P12,Blueberry Muffin,18,3.75,67.5
+2026-09-02,P13,Chocolate Chip Cookie,23,2.5,57.5
+2026-09-02,P14,Bagel with Cream Cheese,11,4.0,44.0
+2026-09-02,P15,Avocado Toast,4,7.5,30.0
+2026-09-03,P01,Espresso,18,2.8,50.4
+2026-09-03,P02,Americano,22,3.2,70.4
+2026-09-03,P03,Cappuccino,28,4.2,117.6
+2026-09-03,P04,Latte,43,4.5,193.5
+2026-09-03,P05,Mocha,15,4.8,72.0
+2026-09-03,P06,Cold Brew,13,4.5,58.5
+2026-09-03,P07,Hot Chocolate,4,3.9,15.6
+2026-09-03,P08,Iced Tea,12,3.2,38.4
+2026-09-03,P09,Orange Juice,9,3.8,34.2
+2026-09-03,P10,Bottled Water,7,2.0,14.0
+2026-09-03,P11,Croissant,23,3.5,80.5
+2026-09-03,P12,Blueberry Muffin,18,3.75,67.5
+2026-09-03,P13,Chocolate Chip Cookie,20,2.5,50.0
+2026-09-03,P14,Bagel with Cream Cheese,13,4.0,52.0
+2026-09-03,P15,Avocado Toast,3,7.5,22.5
+2026-09-04,P01,Espresso,20,2.8,56.0
+2026-09-04,P02,Americano,15,3.2,48.0
+2026-09-04,P03,Cappuccino,37,4.2,155.4
+2026-09-04,P04,Latte,33,4.5,148.5
+2026-09-04,P05,Mocha,13,4.8,62.4
+2026-09-04,P06,Cold Brew,20,4.5,90.0
+2026-09-04,P07,Hot Chocolate,4,3.9,15.6
+2026-09-04,P08,Iced Tea,12,3.2,38.4
+2026-09-04,P09,Orange Juice,7,3.8,26.6
+2026-09-04,P10,Bottled Water,7,2.0,14.0
+2026-09-04,P11,Croissant,24,3.5,84.0
+2026-09-04,P12,Blueberry Muffin,16,3.75,60.0
+2026-09-04,P13,Chocolate Chip Cookie,29,2.5,72.5
+2026-09-04,P14,Bagel with Cream Cheese,9,4.0,36.0
+2026-09-04,P15,Avocado Toast,6,7.5,45.0
+2026-09-05,P01,Espresso,35,2.8,98.0
+2026-09-05,P02,Americano,26,3.2,83.2
+2026-09-05,P03,Cappuccino,38,4.2,159.6
+2026-09-05,P04,Latte,52,4.5,234.0
+2026-09-05,P05,Mocha,17,4.8,81.6
+2026-09-05,P06,Cold Brew,22,4.5,99.0
+2026-09-05,P07,Hot Chocolate,4,3.9,15.6
+2026-09-05,P08,Iced Tea,16,3.2,51.2
+2026-09-05,P09,Orange Juice,6,3.8,22.8
+2026-09-05,P10,Bottled Water,5,2.0,10.0
+2026-09-05,P11,Croissant,22,3.5,77.0
+2026-09-05,P12,Blueberry Muffin,22,3.75,82.5
+2026-09-05,P13,Chocolate Chip Cookie,30,2.5,75.0
+2026-09-05,P14,Bagel with Cream Cheese,15,4.0,60.0
+2026-09-05,P15,Avocado Toast,6,7.5,45.0
+2026-09-06,P01,Espresso,35,2.8,98.0
+2026-09-06,P02,Americano,26,3.2,83.2
+2026-09-06,P03,Cappuccino,44,4.2,184.8
+2026-09-06,P04,Latte,54,4.5,243.0
+2026-09-06,P05,Mocha,14,4.8,67.2
+2026-09-06,P06,Cold Brew,27,4.5,121.5
+2026-09-06,P07,Hot Chocolate,7,3.9,27.3
+2026-09-06,P08,Iced Tea,15,3.2,48.0
+2026-09-06,P09,Orange Juice,14,3.8,53.2
+2026-09-06,P10,Bottled Water,6,2.0,12.0
+2026-09-06,P11,Croissant,25,3.5,87.5
+2026-09-06,P12,Blueberry Muffin,18,3.75,67.5
+2026-09-06,P13,Chocolate Chip Cookie,34,2.5,85.0
+2026-09-06,P14,Bagel with Cream Cheese,10,4.0,40.0
+2026-09-06,P15,Avocado Toast,5,7.5,37.5
+2026-09-07,P01,Espresso,22,2.8,61.6
+2026-09-07,P02,Americano,16,3.2,51.2
+2026-09-07,P03,Cappuccino,39,4.2,163.8
+2026-09-07,P04,Latte,39,4.5,175.5
+2026-09-07,P05,Mocha,18,4.8,86.4
+2026-09-07,P06,Cold Brew,21,4.5,94.5
+2026-09-07,P07,Hot Chocolate,8,3.9,31.2
+2026-09-07,P08,Iced Tea,8,3.2,25.6
+2026-09-07,P09,Orange Juice,6,3.8,22.8
+2026-09-07,P10,Bottled Water,3,2.0,6.0
+2026-09-07,P11,Croissant,17,3.5,59.5
+2026-09-07,P12,Blueberry Muffin,24,3.75,90.0
+2026-09-07,P13,Chocolate Chip Cookie,20,2.5,50.0
+2026-09-07,P14,Bagel with Cream Cheese,15,4.0,60.0
+2026-09-07,P15,Avocado Toast,5,7.5,37.5
+2026-09-08,P01,Espresso,27,2.8,75.6
+2026-09-08,P02,Americano,22,3.2,70.4
+2026-09-08,P03,Cappuccino,30,4.2,126.0
+2026-09-08,P04,Latte,38,4.5,171.0
+2026-09-08,P05,Mocha,12,4.8,57.6
+2026-09-08,P06,Cold Brew,14,4.5,63.0
+2026-09-08,P07,Hot Chocolate,6,3.9,23.4
+2026-09-08,P08,Iced Tea,10,3.2,32.0
+2026-09-08,P09,Orange Juice,6,3.8,22.8
+2026-09-08,P10,Bottled Water,5,2.0,10.0
+2026-09-08,P11,Croissant,18,3.5,63.0
+2026-09-08,P12,Blueberry Muffin,26,3.75,97.5
+2026-09-08,P13,Chocolate Chip Cookie,23,2.5,57.5
+2026-09-08,P14,Bagel with Cream Cheese,14,4.0,56.0
+2026-09-08,P15,Avocado Toast,3,7.5,22.5
